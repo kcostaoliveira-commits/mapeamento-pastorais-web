@@ -1,0 +1,1 @@
+export { AdminLookupCrud } from '../parishes/ui'
