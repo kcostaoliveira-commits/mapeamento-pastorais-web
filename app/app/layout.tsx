@@ -9,7 +9,7 @@ export default async function AppLayout({ children }: { children: React.ReactNod
     <div>
       <header className="p-4 border-b flex items-center justify-between">
         <nav className="flex gap-4 flex-wrap">
-          <Link href="/app">Início</Link>
+          <Link href="/app">Inícioo</Link>
           <Link href="/app/agents">Agentes</Link>
 
           {role === 'admin' && (
